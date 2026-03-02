@@ -41,8 +41,7 @@
 
 ## 📫 Contact & Links
 * **GitHub:** [github.com/suhoank](https://github.com/suhoank)
-* **Email:** [본인의 이메일 주소를 적어주세요]
-* **Portfolio Link:** [추가적인 포트폴리오 사이트가 있다면 링크]
+* **Email:** [suhoank@gmail.com]
 
 ---
 <sub>© 2026 suhoank. All Rights Reserved.</sub>
