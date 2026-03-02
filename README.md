@@ -11,7 +11,7 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Language** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| **Language** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
 | **Embedded** | **ATmega128(AVR)**, **Arduino**, **UART/I2C/SPI**, **ADC Control** |
 | **Tools** | **AVR Studio 4**, **MIT App Inventor**, **GitHub**, **Git** |
 | **Knowledge** | **Sensor Fusion**, **Digital Logic**, **Control Algorithm** |
