@@ -43,8 +43,6 @@
 * **BLTouch를 활용한 정밀 레벨링:** BLTouch 센서를 적용하여 베드의 물리적 오차를 데이터화하고, 소프트웨어 보정 알고리즘을 통해 대형 출력물의 치수 정확도를 높였습니다.
 * **환경 변수 통제 자동화:** 챔버 온도 관리 및 출력 전 자동 예열/점검 시퀀스 매크로를 직접 설계하여 공정 안정성을 강화했습니다.
 
-👉 **[상세 기술 블로그 보기 (디시인사이드 3D프린팅 갤러리)](https://gall.dcinside.com/mgallery/board/view/?id=3dprinting&no=83310)**
-
 ### 🧤 [졸업논문] 스위치 매트릭스 기반 저가형 지문자 번역 시스템
 > **Cost Optimization | Bitmasking Logic | Embedded Edge Computing**
 
