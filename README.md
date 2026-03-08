@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-## 🖨️ [Personal Project] KP3S-Prusa Mini 하이브리드 개조 및 Klipper 최적화
+## 🖨️ [Personal Project] KP3S 기반 Prusa Mini 기구 설계 이식 및 Klipper 펌웨어 최적화 개조
 > **System Integration | Resonance Data Analysis | Process Automation**
 
 #### 📊 Hardware & Performance Comparison
