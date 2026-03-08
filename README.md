@@ -20,6 +20,31 @@
 
 ## 🚀 Featured Projects
 
+## 🖨️ [Personal Project] KP3S-Prusa Mini 하이브리드 개조 및 Klipper 최적화
+> **System Integration | Resonance Data Analysis | Process Automation**
+
+#### 📊 Hardware & Performance Comparison
+
+| 구분 | 순정 KP3S (Baseline) | 하이브리드 개조 모델 (Improved) |
+| :--- | :---: | :---: |
+| **시스템 외형** | <img src="https://github.com/suhoank/portfolio/blob/main/Images/kp3s_stock.jpg?raw=true" width="350"> | <img src="https://github.com/suhoank/portfolio/blob/main/Images/kp3s_mod.jpg?raw=true" width="350"> |
+| **기구부 설계** | V-Slot 기반 보급형 캔틸레버 구조 | **Prusa Mini STEP 분석 기반** 강성 보완 이식 |
+| **X축 공진 분석** | <img src="https://github.com/suhoank/portfolio/blob/main/Images/kp3s_shaper_calibrate_x_4.png?raw=true" width="350"> | <img src="https://github.com/suhoank/portfolio/blob/main/Images/kp3s_mini_shaper_x.png?raw=true" width="350"> |
+| **Y축 공진 분석** | <img src="https://github.com/suhoank/portfolio/blob/main/Images/kp3s_shaper_calibrate_y_3.png?raw=true" width="350"> | <img src="https://github.com/suhoank/portfolio/blob/main/Images/kp3s_mini_shaper_y.png?raw=true" width="350"> |
+| **제어 성능** | 고속 이동 시 진동(Ghosting) 발생 | **진동 감쇄 및 주파수 안정성 확보** |
+
+#### 📝 Project Description
+기존 KP3S의 기구적 한계를 극복하기 위해 Prusa Mini의 설계 데이터를 분석하여 핵심 기구부를 이식하고, Klipper 펌웨어를 통해 시스템을 재구축한 프로젝트입니다. 단순한 부품 교체를 넘어 ADXL345 가속도 센서를 활용한 주파수 응답 분석을 실시하였으며, 이를 통해 진동 억제 성능을 정량적으로 증명했습니다.
+
+#### 🏆 Key Engineering Points
+* **역설계 기반 기구부 통합:** Prusa Mini의 하드웨어 STEP 파일을 분석하여 KP3S 기구부에 최적화된 형태로 이식함으로써 기계적 강성을 개선했습니다.
+* **공진 데이터 기반 제어 최적화 (Input Shaper):** * ADXL345 센서로 측정한 공진 주파수 데이터를 분석하여 MZV/EI 알고리즘을 적용했습니다.
+    * 개조 전후 비교 분석 결과, 특정 주파수 대역의 피크(Power Spectral Density)를 효과적으로 억제하여 고속 출력 정밀도를 확보했습니다.
+* **BLTouch를 활용한 정밀 레벨링:** BLTouch 센서를 적용하여 베드의 물리적 오차를 데이터화하고, 소프트웨어 보정 알고리즘을 통해 대형 출력물의 치수 정확도를 높였습니다.
+* **환경 변수 통제 자동화:** 챔버 온도 관리 및 출력 전 자동 예열/점검 시퀀스 매크로를 직접 설계하여 공정 안정성을 강화했습니다.
+
+👉 **[상세 기술 블로그 보기 (디시인사이드 3D프린팅 갤러리)](https://gall.dcinside.com/mgallery/board/view/?id=3dprinting&no=83310)**
+
 ### 🧤 [졸업논문] 스위치 매트릭스 기반 저가형 지문자 번역 시스템
 > **Cost Optimization | Bitmasking Logic | Embedded Edge Computing**
 
