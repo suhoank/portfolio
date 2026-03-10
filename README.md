@@ -27,7 +27,7 @@
 
 | 구분 | 순정 KP3S (Baseline) | 하이브리드 개조 모델 (Improved) |
 | :--- | :---: | :---: |
-| **시스템 외형** | <img src="https://github.com/suhoank/portfolio/blob/main/Images/kp3s_stock.jpg?raw=true" width="350"> | <img src="https://github.com/suhoank/portfolio/blob/main/Images/kp3s_mod.jpg?raw=true" width="350"> |
+| **시스템 외형** | <img src="https://github.com/suhoank/kp3s-prusa-mini-mod/blob/main/Hardware/Images/KP3S.jpeg" width="350"> | <img src="https://github.com/suhoank/kp3s-prusa-mini-mod/blob/main/Hardware/Images/kp3s-prusa-mini-mod.jpg" width="350"> |
 | **기구부 설계** | V-Slot 기반 보급형 캔틸레버 구조 | **Prusa Mini STEP 분석 기반** 강성 보완 이식 |
 | **X축 공진 분석** | <img src="https://github.com/suhoank/kp3s-prusa-mini-mod/blob/main/Hardware/Images/kp3s_shaper_calibrate_x_4.png" width="350"> | <img src="https://github.com/suhoank/kp3s-prusa-mini-mod/blob/main/Hardware/Images/kp3s mini_shaper_x.png" width="350"> |
 | **Y축 공진 분석** | <img src="https://github.com/suhoank/kp3s-prusa-mini-mod/blob/main/Hardware/Images/kp3s_shaper_calibrate_y_3.png" width="350"> | <img src="https://github.com/suhoank/kp3s-prusa-mini-mod/blob/main/Hardware/Images/kp3s mini_shaper_y.png" width="350"> |
