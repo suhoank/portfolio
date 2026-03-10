@@ -48,9 +48,9 @@
 ### 🧤 [졸업논문] 스위치 매트릭스 기반 저가형 지문자 번역 시스템
 > **Cost Optimization | Bitmasking Logic | Embedded Edge Computing**
 
-| 시스템 외형 (Switches) | 제어 흐름 (Flowchart) |
+| 시스템 외형 (Switches) | 모바일 UI (TTS) |
 | :---: | :---: |
-| <img src="https://github.com/suhoank/Low-Cost-Switch-Sign-Translator/blob/main/Hardware/Images/Glove-Top-View2.jpg" width="450"> | <img src="https://github.com/suhoank/Low-Cost-Switch-Sign-Translator/blob/main/Images/flowchart.png?raw=true" width="350"> |
+| <img src="https://github.com/suhoank/Low-Cost-Switch-Sign-Translator/blob/main/Hardware/Images/Glove-Top-View2.jpg" width="450"> | <img src="https://github.com/suhoank/Low-Cost-Switch-Sign-Translator/blob/main//Mobile_App/Images/App_UI_종합설계.png?raw=true" width="350"> |
 
 #### 📝 Project Description
 고가의 플렉스 센서를 **풀업(Pull-up) 스위치**로 대체하여 제작 비용을 80% 이상 절감한 경제형 지문자 번역기입니다. **ATmega128** 내부에서 비트 연산을 통해 직접 지문자를 분류(Classification)하는 구조를 채택하여 시스템 효율을 극대화했습니다.
